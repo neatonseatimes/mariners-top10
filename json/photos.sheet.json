@@ -2,10 +2,10 @@
   {
     "title": "1",
     "rank": "1",
-    "overlay": "right",
+    "overlay": "left",
     "name": "Cano's baserunning blunder",
     "date": "April 15",
-    "chatter": "<b>Dodgers at Mariners:</b> In a season filled with team-wide baserunning mistakes, Robinson Cano made the most memorable when he thought the bases were loaded and jogged home on Logan Morrison’s walk, only to be thrown out at third base after realizing what was going on. “I felt in that situation the dumbest guy in the game,” he said.",
+    "chatter": "<b>Dodgers at Mariners:</b> In a season filled with team-wide baserunning mistakes, Robinson Cano made the most memorable when he thought the bases were loaded and jogged home on Logan Morrison’s walk, only to be thrown out at third base after realizing what was going on. “I felt in that situation the dumbest guy in the game,” he said afterward.",
     "image": "20150415cano01.jpg",
     "credit": "Alex Gallardo / AP",
     "link": "http://www.seattletimes.com/sports/mariners/taijuan-walker-struggles-mariners-swept-by-dodgers-5-2/"
@@ -16,7 +16,7 @@
     "overlay": "left",
     "name": "Wild walkoff win",
     "date": "April 19",
-    "chatter": "<b>Rangers at Mariners:</b> Down 10-5 going into the seventh inning, the Mariners score six runs over the next three innings to pick up a wild, 11-10 walk-off win over the Rangers. Nelson Cruz beat his former team, singling home Seth Smith with the game-winning run. Cruz was 3 for 6 with two homers.",
+    "chatter": "<b>Rangers at Mariners:</b> Down 10-5 going into the seventh inning, the Mariners scored six runs over the next three innings to pick up a wild, 11-10 walk-off win over the Rangers. Nelson Cruz beat his former team, singling home Seth Smith with the game-winning run. Cruz was 3-for-6 with two homers.",
     "image": "20150419walkoff01.jpg",
     "credit": "Ken Lambert / The Seattle Times",
     "link": "http://www.seattletimes.com/sports/mariners/nelson-cruz-drives-in-five-including-winning-run/"
@@ -49,7 +49,7 @@
     "overlay": "right",
     "name": "Monty makes it two",
     "date": "June 30",
-    "chatter": "<b>Mariners at Padres:</b> Rookie left-hander Mike Montgomery throws second consecutive shutout, beating the Padres, 5-0, at Petco Park. Montgomery allowed one hit with four walks and seven strikeouts to improve to 3-2. He had shutout the Royals, 7-0, at Safeco Field in his previous outing. He was 12th rookie since 1980 to accomplish the feat.",
+    "chatter": "<b>Mariners at Padres:</b> Rookie left-hander Mike Montgomery threws his second consecutive shutout, beating the Padres, 5-0, at Petco Park. Montgomery allowed one hit with four walks and seven strikeouts to improve to 3-2. He had shut out the Royals, 7-0, at Safeco Field in his previous outing. He was the 12th rookie since 1980 to accomplish the feat.",
     "image": "20150630montgomery01.jpg",
     "credit": "Lenny Ignelzi / AP",
     "link": "http://www.seattletimes.com/sports/mariners/mariners-rookie-montgomery-pitches-second-consecutive-shutout-in-5-0-win-over-padres/"
@@ -71,7 +71,7 @@
     "overlay": "left",
     "name": "Iwakuma throws no-hitter",
     "date": "Aug. 12",
-    "chatter": "<b>Orioles at Mariners:</b> Hisashi Iwakuma became the fifth player in Mariners history to throw a no-hitter. The veteran right-hander held the Orioles without a hit, walking three and striking out seven. The last three American League no-hitters all came at Safeco Field with Felix Hernandez’s perfect game and the seven-pitcher combined no-hitter coming in 2012.",
+    "chatter": "<b>Orioles at Mariners:</b> Hisashi Iwakuma became the fifth player in Mariners history to throw a no-hitter. The veteran right-hander held the Orioles without a hit, walking three and striking out seven. The last three American League no-hitters all came at Safeco Field, with Felix Hernandez’s perfect game and the seven-pitcher combined no-hitter each coming in 2012.",
     "image": "20150812nohitter01.jpg",
     "credit": "John Lok / The Seattle Times",
     "link": "http://www.seattletimes.com/sports/mariners/hisashi-iwakuma-throws-fifth-no-hitter-in-mariners-history/"
@@ -82,7 +82,7 @@
     "overlay": "right",
     "name": "Rodney DFA'd",
     "date": "Aug. 23",
-    "chatter": "After a tumultuous season that saw him go from All-Star to unwanted, Fernando Rodney is designated for assignment. Rodney lost his closer’s job in mid-June and found no consistency in a setup role. He had a 5.68 ERA and six blown saves in 54 appearances with Seattle in 2015.",
+    "chatter": "After a tumultuous season that saw him go from All-Star to unwanted, Fernando Rodney was designated for assignment. Rodney lost his closer’s job in mid-June and found no consistency in a setup role. He had a 5.68 ERA and six blown saves in 54 appearances with Seattle in 2015.",
     "image": "20150823rodney01.jpg",
     "credit": "Dean Rutz / The Seattle Times",
     "link": "http://www.seattletimes.com/sports/mariners/mariners-trade-fernando-rodney-to-the-cubs-for-cash-considerations/"
@@ -103,8 +103,8 @@
     "rank": "10",
     "overlay": "right",
     "name": "M's turn to Dipoto",
-    "date": "Sept. 29",
-    "chatter": "Mariners president Kevin Mather completes his search for a general manager, announcing the team had hired former Angels general manager Jerry Dipoto to replace Jack Zduriencik. Dipoto was the runner-up when Zduriencik was hired.",
+    "date": "Sept. 28",
+    "chatter": "Mariners president Kevin Mather completed his search for a general manager, announcing the team had hired former Angels general manager Jerry Dipoto to replace Jack Zduriencik. Dipoto was the runner-up when Zduriencik was hired.",
     "image": "20150929dipoto01.jpg",
     "credit": "Bettina Hansen / The Seattle Times",
     "link": "http://www.seattletimes.com/sports/mariners/report-mariners-to-hire-jerry-dipoto-as-new-general-manager/"
