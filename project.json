@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "mariners-2015-test"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/sports/mariners-2015-top-story-lines/"
+    }
+  },
+  "title": "Top 2015 Mariners story lines",
+  "description": "A look back at the top story lines &mdash; the good and the bad &mdash; from the Mariners' 2015 season.",
+  "url": "http://projects.seattletimes.com/2015/sports/mariners-2015-top-story-lines/",
+  "slug": "MarinersTop10",
+  "tags": ["interactive", "parallax"],
+  "image": "http://projects.seattletimes.com/2015/sports/mariners-2015-top-story-lines/src/assets/marinerstop10_social.jpg",
+  "production": true,
+  "sheets": ["1pKgwghS1HryB1rYAhMm_Kb1hVvWQH_SL_zII-_wtV8I"]
+}
